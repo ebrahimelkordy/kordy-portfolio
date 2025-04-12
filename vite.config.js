@@ -5,4 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/kordy-portfolio/', // تأكد من أن القيمة تطابق اسم المستودع
   plugins: [react()],
+  resolve: {
+    extensions: ['.js', '.jsx'], // تأكد من دعم امتداد JSX
+  },
 })
