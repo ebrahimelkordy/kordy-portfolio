@@ -6,7 +6,7 @@ import Reacts from '../../assets/react.svg'
 import Node from '../../assets/nodejs.svg'
 import MongoDB from '../../assets/mongodb.svg'
 import Tailwind from '../../assets/tailwindcss.svg'
-import Figma from '../../assets/figma.svg'
+import Mongoose from '../../assets/Mongoose.js.svg'
 import JSX from '../../assets/expressjs.svg'
 
 function Skils() {
@@ -43,9 +43,9 @@ function Skils() {
         },
         {
             id: 6,
-            image: Figma,
-            title: 'Figma',
-            disc: 'Design tool',
+            image:Mongoose,
+            title: 'Mongoose',
+            disc: 'MongoDB ODM',
         },
         {
             id: 7,

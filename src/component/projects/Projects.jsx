@@ -1,7 +1,7 @@
 import React from 'react';
 import './projects.css';
-import IMG1 from '../../assets/portfolio1.jpg';
-import IMG2 from '../../assets/portfolio2.jpg';
+import IMG1 from '../../assets/project-1.png';
+import IMG2 from '../../assets/project2.png';
 import IMG3 from '../../assets/portfolio3.jpg';
 import IMG4 from '../../assets/portfolio4.jpg';
 import IMG5 from '../../assets/portfolio5.png';
@@ -13,14 +13,14 @@ function Projects() {
         id: 1,
         image: IMG1,
         title: 'Portfolio Item 1',
-        github: 'https://github.com/project1',
+        github: 'https://ebrahimelkordy.github.io/managing.products/',
         demo: 'https://demo1.com'
     },
     {
         id: 2,
         image: IMG2,
         title: 'Portfolio Item 2',
-        github: 'https://github.com/project2',
+        github: 'https://ebrahimelkordy.github.io/athar/',
         demo: 'https://demo2.com'
     },
     {
@@ -71,7 +71,7 @@ function Projects() {
                                 <h3>{title}</h3>
                                 <div className="project-item_btns">
                                     <a href={github} className="btn">GitHub</a>
-                                    <a href={demo} className="btn btn-primary">Live Demo</a>
+                                    {/* <a href={demo} className="btn btn-primary">Live Demo</a> */}
                                 </div>
                             </article>
                         );

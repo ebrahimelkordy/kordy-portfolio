@@ -3,7 +3,7 @@ import './about.css'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
-import ImageME from "../../assets/me-about.jpg"
+import ImageME from "../../assets/صورة واتساب بتاريخ 1446-11-25 في 19.30.28_93e461d9-Photoroom.png"
 function About() {
     return (
         <section className='about' id='about'>
@@ -22,20 +22,20 @@ function About() {
                         <article className='about_card'>
                             <FaAward className='about_icon' />
                             <h5>Experience</h5>
-                            <small>2+ Years Working</small>
+                            <small>Junior</small>
                         </article>
-                        <article className='about_card'>
+                        {/* <article className='about_card'>
                             <FiUsers className='about_icon' />
                             <h5>Clients</h5>
                             <small>50+ Worldwide</small>
-                        </article>
+                        </article> */}
                         <article className='about_card'>
                             <VscFolderLibrary className='about_icon' />
                             <h5>Projects</h5>
-                            <small>80+ Completed</small>
+                            <small>10+ Completed</small>
                         </article>
                     </div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. QCuisquam, voluptatibus. Quisquam, voluptatibus. Quisquam, voluptatibus. Quisquam, voluptatibus.</p>
+                    <p>Through building various small to mid-sized projects, I’ve been sharpening my skills and gaining real-world experience to grow steadily as a full-stack developer.</p>
                     <a href='#contacts' className='btn btn-primary'>Let's Talk</a>
                 </div>
             </div>

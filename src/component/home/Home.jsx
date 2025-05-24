@@ -1,7 +1,7 @@
 import React from 'react'
 import './home.css'
 import "../../index.css"
-import Me from '../../assets/me.png'
+import Me from '../../assets/me-Photoroom.jpg'
 import HomeSocials from './HomeSocials'
 import CV from '../../assets/CV.pdf'
 function Home() {
