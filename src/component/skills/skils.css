@@ -7,7 +7,8 @@
 }
 
 .container_skills .card_skill {
-    width: 24%; 
+    width: 48%; 
+    height: 80px;
     display: flex;
     align-items: center;
     gap: 10px;

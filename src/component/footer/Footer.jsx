@@ -17,13 +17,13 @@ export default function Footer() {
             </ul>
 
             <div className="footer_socials">
-                <a href="https://facebook.com" target="_blank" rel="noreferrer">
+                <a href="https://www.facebook.com/ebrahim.kordy.7" target="_blank" rel="noreferrer">
                     <FaFacebookF />
                 </a>
-                <a href="https://twitter.com" target="_blank" rel="noreferrer">
+                <a href="https://x.com/ebrahimkordy" target="_blank" rel="noreferrer">
                     <FaTwitter />
                 </a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+                <a href="www.linkedin.com/in/ebrahim-elkordy-3a104b214" target="_blank" rel="noreferrer">
                     <FaLinkedinIn />
                 </a>
             </div>
