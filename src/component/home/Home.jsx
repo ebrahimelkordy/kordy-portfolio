@@ -1,9 +1,9 @@
 import React from 'react'
 import './home.css'
 import "../../index.css"
-import Me from '../../assets/me-Photoroom.jpg'
+import Me from '../../assets/صورة واتساب بتاريخ 1446-11-25 في 19.30.28_93e461d9-Photoroom.png'
 import HomeSocials from './HomeSocials'
-import CV from '../../assets/CV.pdf'
+import CV from '../../assets/Ibrahim_Hashish_CV.pdf'
 function Home() {
     return (
         <section id="home">

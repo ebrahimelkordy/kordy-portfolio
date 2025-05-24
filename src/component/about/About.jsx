@@ -3,7 +3,7 @@ import './about.css'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
-import ImageME from "../../assets/صورة واتساب بتاريخ 1446-11-25 في 19.30.28_93e461d9-Photoroom.png"
+import ImageME from "../../assets/5000.jpg"
 function About() {
     return (
         <section className='about' id='about'>

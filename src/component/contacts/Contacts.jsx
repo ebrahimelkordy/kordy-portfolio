@@ -35,7 +35,7 @@ export default function Contacts() {
             id: 2,
             icon: <RiMessengerLine />,
             title: "Messenger",
-            info: "RedaTech",
+            info: "ebrahimkordy",
             link: "https://m.me/ebrahim.kordy.7",
         },
         {
